@@ -1,2 +1,2 @@
 # ADB-Explorer
-A bad Android file manager written in Python, using ADB.
+A bad (but leightweight) Android file manager written in Python, using ADB.
